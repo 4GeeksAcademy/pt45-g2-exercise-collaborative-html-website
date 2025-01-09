@@ -1,3 +1,29 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.contact-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-contact-section{
+    background: #e2e0e0d8;
+    width: 73rem;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-contact-section{
+    margin: 0 36rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-contact-section{
+    font-size: 25px;
+    margin: 2rem 36rem;
 }
