@@ -1,0 +1,11 @@
+.first-heading{
+    display: flex;
+    justify-content: center;
+    
+}
+.titulo {
+    font-family: 'Courier New', Courier, monospace;
+}
+.imagen {
+    border-radius: 100%;
+}
